@@ -1,64 +1,53 @@
-US Dollar	1.00 USD	inv. 1.00 USD
-Euro	0.918445	1.088796
-British Pound	0.773966	1.292046
-Indian Rupee	83.712523	0.011946
-Australian Dollar	1.494410	0.669160
-Canadian Dollar	1.372674	0.728505
-Singapore Dollar	1.344817	0.743596
-Swiss Franc	0.888670	1.125277
-Malaysian Ringgit	4.687699	0.213324
-Japanese Yen	157.353574	0.006355
-Chinese Yuan Renminbi	7.269631	0.137559Alphabetical orderJul 19, 2024 14:33 UTC
-US Dollar▲	1.00 USD▲▼	inv. 1.00 USD▲▼
-Argentine Peso	924.865157	0.001081
-Australian Dollar	1.494410	0.669160
-Bahraini Dinar	0.376000	2.659574
-Botswana Pula	13.535001	0.073883
-Brazilian Real	5.552289	0.180106
-British Pound	0.773966	1.292046
-Bruneian Dollar	1.344817	0.743596
-Bulgarian Lev	1.796323	0.556693
-Canadian Dollar	1.372674	0.728505
-Chilean Peso	941.128728	0.001063
-Chinese Yuan Renminbi	7.269631	0.137559
-Colombian Peso	4034.268409	0.000248
-Czech Koruna	23.190545	0.043121
-Danish Krone	6.852989	0.145922
-Emirati Dirham	3.672500	0.272294
-Euro	0.918445	1.088796
-Hong Kong Dollar	7.810012	0.128041
-Hungarian Forint	358.715493	0.002788
-Icelandic Krona	137.416902	0.007277
-Indian Rupee	83.712523	0.011946
-Indonesian Rupiah	16199.049099	0.000062
-Iranian Rial	42161.479280	0.000024
-Israeli Shekel	3.643409	0.274468
-Japanese Yen	157.353574	0.006355
-Kazakhstani Tenge	475.460170	0.002103
-Kuwaiti Dinar	0.305860	3.269468
-Libyan Dinar	4.829693	0.207053
-Malaysian Ringgit	4.687699	0.213324
-Mauritian Rupee	46.641981	0.021440
-Mexican Peso	17.877464	0.055936
-Nepalese Rupee	134.002821	0.007463
-New Zealand Dollar	1.661363	0.601916
-Norwegian Krone	10.899183	0.091750
-Omani Rial	0.384989	2.597480
-Pakistani Rupee	278.007803	0.003597
-Philippine Peso	58.381737	0.017129
-Polish Zloty	3.936214	0.254051
-Qatari Riyal	3.640000	0.274725
-Romanian New Leu	4.565661	0.219026
-Russian Ruble	89.114567	0.011222
-Saudi Arabian Riyal	3.750000	0.266667
-Singapore Dollar	1.344817	0.743596
-South African Rand	18.288891	0.054678
-South Korean Won	1389.385381	0.000720
-Sri Lankan Rupee	303.563226	0.003294
-Swedish Krona	10.680370	0.093630
-Swiss Franc	0.888670	1.125277
-Taiwan New Dollar	32.800373	0.030487
-Thai Baht	36.345999	0.027513
-Trinidadian Dollar	6.787181	0.147337
-Turkish Lira	33.061301	0.030247
-Venezuelan Bolivar	3652706.616239	0.000000
+Argentine Peso	1.115338	0.896589
+Australian Dollar	0.017966	55.660476
+Bahraini Dinar	0.005109	195.726140
+Botswana Pula	0.149039	6.709659
+Brazilian Real	0.068308	14.639623
+British Pound	0.010200	98.042160
+Bruneian Dollar	0.018113	55.210090
+Bulgarian Lev	0.021856	45.754931
+Canadian Dollar	0.017286	57.849228
+Chilean Peso	9.984351	0.100157
+Chinese Yuan Renminbi	0.088853	11.254577
+Colombian Peso	46.472740	0.021518
+Croatian Kuna	0.084281	11.865041
+Czech Koruna	0.294208	3.398959
+Danish Krone	0.083171	12.023476
+Emirati Dirham	0.049903	20.038946
+Euro	0.011175	89.488866
+Hong Kong Dollar	0.105329	9.494061
+Hungarian Forint	3.954032	0.252906
+Icelandic Krona	1.728425	0.578561
+Indonesian Rupiah	191.655288	0.005218
+Iranian Rial	568.665341	0.001759
+Israeli Shekel	0.044178	22.635679
+Japanese Yen	1.413723	0.707352
+Kazakhstani Tenge	5.696617	0.175543
+Kuwaiti Dinar	0.004145	241.232117
+Libyan Dinar	0.018288	54.679837
+Malaysian Ringgit	0.054995	18.183521
+Mauritian Rupee	0.537754	1.859587
+Mexican Peso	0.271623	3.681572
+Nepalese Rupee	1.607500	0.622084
+New Zealand Dollar	0.019132	52.267460
+Norwegian Krone	0.118981	8.404735
+Omani Rial	0.005225	191.399294
+Pakistani Rupee	2.173161	0.460159
+Philippine Peso	0.653161	1.531016
+Polish Zloty	0.049474	20.212818
+Qatari Riyal	0.049461	20.217865
+Romanian New Leu	0.054403	18.381264
+Russian Ruble	0.993034	1.007015
+Saudi Arabian Riyal	0.050956	19.624808
+Singapore Dollar	0.018113	55.210090
+South African Rand	0.204165	4.897995
+South Korean Won	14.810964	0.067518
+Sri Lankan Rupee	2.529038	0.395407
+Swedish Krona	0.114455	8.737087
+Swiss Franc	0.012034	83.097635
+Taiwan New Dollar	0.382560	2.613972
+Thai Baht	0.407954	2.451255
+Trinidadian Dollar	0.092336	10.830042
+Turkish Lira	0.107358	9.314632
+US Dollar	0.013588	73.593029
+Venezuelan Bolivar	0.135713	7.368513
